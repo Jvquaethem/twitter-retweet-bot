@@ -6,7 +6,9 @@ What You Need & Need to Know
 
 * [Tweepy](http://www.tweepy.org/) - An easy-to-use Python library for accessing the Twitter API.
 
-* Make sure you fully understand [Twitter's Rules on Automation](https://support.twitter.com/articles/76915). Play nice. Don't spam! 
+* Make sure you fully understand [Twitter's Rules on Automation](https://support.twitter.com/articles/76915). 
+
+* Play nice. Don't spam! 
 
 Setup
 ----------
@@ -32,6 +34,8 @@ Instructions
 * The example demonstrates a single hashtag value, but you can tweak the code to search multiple hashtags. Example:
 
  `q='%23art%20OR%20%23music' will search #art OR #music`
+ 
+ 
 * Run your retweet.py script. Enjoy! 
 
 `python retweet.py`
