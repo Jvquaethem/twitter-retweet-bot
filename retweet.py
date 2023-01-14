@@ -25,7 +25,7 @@ api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 #Search Twitter for tweets with this keyword
 #Put multiple keywords with 'OR' in between
 #Example: search = '#keywordToSearch OR #keywordToSearch2'
-search = '#keywordToSearch'
+search = '#DADJOKE OR #DADHUMOR OR #PROGRAMMINGHUMOR'
 
 #Maximum limit of tweets to be interacted with
 maxNumberOfTweets = 500
